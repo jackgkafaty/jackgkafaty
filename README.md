@@ -1,8 +1,6 @@
 <div align="center">
-
+<section>
 </div>
-
-
 
 <!-- GitHub Stats Section -->
 <div>
@@ -16,14 +14,19 @@
 
 <div>
     <a href="https://github.com/jackgkafaty/github-readme-stats">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jackgkafaty&fire=DD2727&count_private=true" width="400" />
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jackgkafaty&fire=DD2727&count_private=true" width="450" />
     </a>
     <a href="https://github.com/jackgkafaty/">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=jackgkafaty&show_icons=true&count_private=true"width="400" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=jackgkafaty&show_icons=true&count_private=true"width="450" />
     </a>
 </div>
+</section>
 
+<div>
 
+    
+    
+<section>    
 ### Hi there 👋
 
 <!--
@@ -42,6 +45,6 @@ Here are some ideas to get you started:
 -->  
   
   
-
- 
+</div>
+ </section>
  
