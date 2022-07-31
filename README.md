@@ -4,7 +4,7 @@
 
 <!-- GitHub Stats Section -->
 <div>
-    <h1 align="center">Github Stats</h1>
+    <h1 align="center">GitHub Stats</h1>
 </div>
 
 <!-- GitHub Activity Graph -->
