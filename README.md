@@ -1,11 +1,15 @@
-<div style="background: linear-gradient(135deg, #0d1117 0%, #220a28 50%, #161b22 100%); padding: 40px 0; border-radius: 12px; margin-bottom: 30px; border: 1px solid #c56a90; box-shadow: 0 0 20px rgba(197, 106, 144, 0.3);">
-  <h1 style="color: #ffffff; font-size: 3.5rem; font-weight: 700; margin: 0; padding-left: 40px; letter-spacing: -0.02em; text-shadow: 0 0 10px #c56a90;">
-    Jack G Kafaty
-  </h1>
-  <div style="padding-left: 40px; margin-top: 15px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=400&size=22&duration=3000&pause=1200&color=ffeb95&vCenter=true&width=600&height=40&lines=Senior+Solutions+Engineer+%40+GitHub;Enterprise+Cloud+Architecture+Specialist;DevOps+%26+Infrastructure+Automation+Expert" alt="Typing Animation" />
-  </div>
+# Jack G Kafaty
+
+<div style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=28&duration=3500&pause=1000&color=c56a90&center=false&vCenter=true&width=800&height=60&lines=Senior+Solutions+Engineer+%40+GitHub;Enterprise+Cloud+Architecture+Expert;DevOps+%26+Infrastructure+Automation+Specialist;Building+Scalable+Solutions+for+9%2B+Years" alt="Animated Job Title" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif" style="margin-right: 20px; margin-bottom: 20px;">
+</picture>
+<br />
 
 <table style="width: 100%; border-collapse: collapse; margin: 30px 0;">
   <tr>
